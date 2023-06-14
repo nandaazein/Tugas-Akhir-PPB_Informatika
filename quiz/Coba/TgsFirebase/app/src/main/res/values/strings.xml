@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TgsFirebase</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="klik_untuk_login">Klik untuk Login</string>
+    <string name="klik_untuk_register">Klik untuk Register</string>
+    <string name="logout">Logout</string>
+    <string name="selamat_datang_di_aplikasi_media_pembelajaran">Selamat Datang di Aplikasi Media Pembelajaran</string>
+    <string name="selamat_datang">Selamat Datang di Aplikasi Media Pembelajaran</string>
+</resources>

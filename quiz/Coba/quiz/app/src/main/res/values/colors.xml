@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backg">#6a5be2</color>
+    <color name="category">#e8e4fa</color>
+    <color name="click">#ff8fa3</color>
+
+    <color name="hijau">#4CAF50</color>
+    <color name="kuning">#F0FF42</color>
+
+</resources>

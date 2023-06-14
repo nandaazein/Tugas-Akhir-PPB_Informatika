@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Praktikum5</string>
+
+    Judul
+    Bagajah Gamuling Baular Lulut
+    Ba’amar Galung Pancaran Matahari
+    Babaju Kun (Hwa Kun) Galung Pacinan
+    Babaju Kubaya Panjang
+
+    <string name="bagajah">
+        <p>
+            HTML adalah singkatan dari Hyper Text Markup Language yang merupakan bahasa penanda standar untuk membuat halaman web. HTML menggambarkan struktur halaman Web yang terdiri dari serangkaian elemen. Elemen inilah yang memberitahukan browser cara menampilkan konten. Elemen HTML memberi label potongan konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dll.
+        </p>
+        <p>
+          Tujuan web browser (Chrome, Edge, Firefox, Safari) adalah untuk membaca dokumen HTML dan menampilkannya dengan benar.
+        </p>
+        <p>
+            Browser tidak menampilkan tag HTML, tetapi menggunakannya untuk menentukan cara menampilkan dokumen.
+        </p>
+    </string>
+
+    <string name="baamar">
+        <p>
+           Di sini akan ditunjukkan beberapa contoh dasar HTML.
+            Dan akan ada beberapa tag html yang mungkin belum  dipelajari namun jangan khawatir.
+        </p>
+        <p>
+           Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen: Tag !DOCTYPE html >. Dokumen HTML itu sendiri dimulai dengan tag html dan diakhiri dengan tag html. Bagian yang terlihat dari dokumen HTML adalah antara tag body dan tag body.
+        </p>
+        <p>
+            Deklarasi tag DOCTYPE mewakili jenis dokumen, dan membantu browser untuk menampilkan halaman web dengan benar. Itu hanya boleh muncul sekali, di bagian atas halaman (sebelum tag HTML apa pun). Deklarasi Tag DOCTYPE tidak case sensitive.
+        </p>
+        <p>
+Heading HTML didefinisikan dengan tag h1 sampai h6. Tag h1 mendefinisikan judul yang paling penting. Tag h6 mendefinisikan heading yang paling tidak penting.
+        </p>
+    </string>
+    <string name="hwakun">
+        <p>
+           JavaScript membuat halaman HTML lebih dinamis dan interaktif. Tag HTML script digunakan untuk mendefinisikan skrip sisi klien (JavaScript). Elemen tag script berisi pernyataan skrip, atau menunjuk ke file skrip eksternal melalui srcatribut.
+        </p>
+        <p>
+            Penggunaan umum untuk JavaScript adalah manipulasi gambar, validasi formulir, dan perubahan konten yang dinamis. Untuk memilih elemen HTML, JavaScript paling sering menggunakan document.getElementById() metode ini.
+        </p>
+    </string>
+    <string name="kubayaPanjang">
+        <p>
+            Pakaian adat yang satu ini sudah ada sejak abad ke 17. Pakaian adat ini merupakan perpaduan diantara budaya jawa dan hindu yang kental.
+        </p>
+        <p>
+          Budaya jawa terlihat dari penggunaan bunga melati dan mawar pada pengantin. Sedangkan budaya hindu terlihat dari dekorasi halilipan yaitu mahkota kain yang terdapat bentuk naga dan juga kelabang.
+        </p>
+         <p>
+         Untuk pria atasannya menggunakan kemeja dengan kerenda di dada. Selain kemeja, juga menggunakan jas tanpa kancing dan bawahannya menggunakan celana panjang.
+             Kemudia nditambah dengan kain yang diikatkan di pinggang dengan motif halilipan dan juga tali wenang. Kemudian untuk perempuan, atasannya menggunakan baju poko disertai dengan hiasan manik manik rumbai. Selain itu juga ada kida, yaitu hiasan pengantin yang memiliki bentuk segi lima.
+        </p>
+        <p>
+            Kemudian untuk perempuan, atasannya menggunakan baju poko disertai dengan hiasan manik manik rumbai.
+            Selain itu juga ada kida, yaitu hiasan pengantin yang memiliki bentuk segi lima.
+        </p>
+    </string>
+
+
+</resources>
